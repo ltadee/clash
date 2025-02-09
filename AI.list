@@ -5,7 +5,7 @@
 # DOMAIN-KEYWORD,Claude
 # 域名后缀匹配
 DOMAIN,copilot.microsoft.com
-DOMAIN-SUFFIX,gchat.groq.com
+DOMAIN-SUFFIX,groq.com
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,meta.ai
 DOMAIN-SUFFIX,metademolab.com
